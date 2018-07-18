@@ -63,7 +63,7 @@ class UserDash extends Component {
 
                 {
                     (isLoggedIn()) ? '' : (<div className="col-sm-12">
-                        <div className="jumbotron text-center"><p>Created By Medspace</p></div>
+                        <div className="jumbotron text-center"><p>Created By Raghav</p></div>
                     </div>)
                 }
 
